@@ -10,10 +10,10 @@ int servov;                                   //valore posizione verticale
 const int servovLimitHigh = 168;              //limite superiore 178°
 const int servovLimitLow = 20;                 //limite superiore 2°
 /////////////////////////////
-const int ldrtopleft = 2;                     //fotoresistenza in alto a sinistra
+const int ldrtopleft = 0;                     //fotoresistenza in alto a sinistra
 const int ldrtopright = 1;                    //fotoresistenza in alto a destra
-const int ldrbotleft = 3;                     //fotoresistenza in basso a sinistra
-const int ldrbotright = 0;                    //fotoresistenza in basso a destra
+const int ldrbotleft = 2;                     //fotoresistenza in basso a sinistra
+const int ldrbotright = 3;                    //fotoresistenza in basso a destra
 /////////////////////////////
 const int TOL = -20;                          //tolleranza per la differenza tra i valori dei fotoresistori
 const unsigned long WAIT_SENSORS = 5;         //attesa tra le misurazioni dello stesso fotoresistore di cui si fa le media
