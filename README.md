@@ -15,4 +15,6 @@ If you would like to use a different IDE (like PlatformIO in VSCode for instance
 at the top of the file.
 
 ## Circuit:
+Pdf and jpg schematics are available here: [Circuit](/Circuit)
+
 ![alt text](https://github.com/grebano/Arduino_solar_track/blob/main/Circuit/Solar_track_circuit.jpg?raw=true)
