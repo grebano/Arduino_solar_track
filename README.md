@@ -22,9 +22,9 @@ at the top of the file.
 | Arduino Uno | 1 | You can use any arduino with analog inputs |
 | Photoresistors | 4 | Consider their resistance |
 | Wires    | a lot | Create freely your wire nest |
-| 1 Kohm resistor  | 4 | Resistors used in order to create a voltage divider with ldrs | 
+| 1 Kohm resistor  | 4 | Resistors used in order to create a voltage divider with photoresistors | 
 | LED  | 1 | I used 1 Led to visualize if the motors are on or off | 
-| potentiometers | 4 | Used only in the real device in order to calibrate resistors |
+| potentiometers | 4 | Used only in the real device in order to calibrate resistors and get the same values |
 | Servo Motors   | 2 | One for vertical axis and one for horizontal axis |
 | Switch  | 1 | I used a switch to manually power off the device |
 | Breadboard  | 1 | Useful for easy and rapid wiring |
