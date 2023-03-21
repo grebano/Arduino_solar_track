@@ -13,7 +13,9 @@ If you would like to use a different IDE (like PlatformIO in VSCode for instance
 #include <Arduino.h>
 ```
 at the top of the file.
+
 ## Materials
+<div align="center">
 
 | Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
@@ -26,7 +28,7 @@ at the top of the file.
 | Servo Motors   | 2 | One for vertical axis and one for horizontal axis |
 | Switch  | 1 | I used a switch to manually power off the device |
 | Breadboard  | 1 | Useful for easy and rapid wiring |
-
+</div>
 ## Circuit:
 Pdf and jpg schematics are available here: [Circuit](/Circuit)
 
