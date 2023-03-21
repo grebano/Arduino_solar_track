@@ -1,5 +1,6 @@
 # Arduino_solar_track
 A self orienting solar panel that is able to track the sunlight.
+
 Link to Tinkercad project: [Solar tracker](https://www.tinkercad.com/things/gveaNrLVcNt-grand-robo-juttuli)
 
 ![alt text](https://github.com/grebano/Arduino_solar_track/blob/main/Photos/Real_implementation.jpg?raw=true)
