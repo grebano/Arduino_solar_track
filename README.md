@@ -1,7 +1,7 @@
 # Arduino_solar_track
 A self orienting solar panel that is able to track the sunlight.
 
-Link to Tinkercad project: [Solar tracker](https://www.tinkercad.com/things/gveaNrLVcNt-grand-robo-juttuli)
+Link to Tinkercad project: [Solar tracker](https://www.tinkercad.com/things/gveaNrLVcNt-solartrackarduino)
 
 ![alt text](https://github.com/grebano/Arduino_solar_track/blob/main/Photos/Real_implementation.jpg?raw=true)
 
@@ -14,5 +14,5 @@ If you would like to use a different IDE (like PlatformIO in VSCode for instance
 ```
 at the top of the file.
 
-# Circuit:
+## Circuit:
 ![alt text](https://github.com/grebano/Arduino_solar_track/blob/main/Circuit/Solar_track_circuit.jpg?raw=true)
