@@ -29,6 +29,7 @@ at the top of the file.
 | Switch  | 1 | I used a switch to manually power off the device |
 | Breadboard  | 1 | Useful for easy and rapid wiring |
 </div>
+
 ## Circuit:
 Pdf and jpg schematics are available here: [Circuit](/Circuit)
 
